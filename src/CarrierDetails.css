@@ -1,0 +1,66 @@
+.open {
+    display: block;
+}
+
+.close {
+    display: none;
+}
+
+.carrier-detail-section {
+    display: none;
+}
+
+.carrier-order-section {
+    display: none;
+}
+
+.carrier-pickupsection {
+    display: none;
+}
+
+.carrier-track-section {
+    display: none;
+}
+
+.carrier-document-section {
+    display: none;
+}
+
+.carrier-detail-section-avator{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:250px;
+    height:250px;
+    padding: 10px;
+    float:left;
+    
+
+
+}
+
+
+.carrier-detail-section-action{
+
+
+
+    float:right;
+}
+
+.carrier-detail-section-action-button{
+
+
+    margin-bottom:10px;
+
+
+}
+
+.carrier-mcnumber{
+
+
+    margin-right: 10px;
+
+}
+
+
+

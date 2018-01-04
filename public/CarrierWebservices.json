@@ -1,0 +1,398 @@
+{
+  "data": {
+    "carriers": [
+      {
+        "carrierName": "Averitt Express",
+        "userName": "TNLLTL",
+        "password": "tnlltl28",
+        "token": "",
+        "accountNo": "857875",
+        "mcnumber": ["MC-121600","MC-843369"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+
+        "logo":
+          "http://www.globaltrademag.com/rfp/uploads/averitt_logo_cmyk.jpg",
+        "isRequestSectionOpen": "false",
+        "url":
+          "https://www.averittexpress.com/public/technology/webservices.jsp",
+        "tracking": "can be tracked by Pro",
+        "order": "no create order web service",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "AAA Copper",
+        "userName": "tnlltl",
+        "password": "tnlltl1",
+        "token": "",
+        "accountNo": "0846154",
+        "mcnumber": ["MC-55889"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "http://www.truckingtruth.com/trucking-companies/tc-logos/aaa-cooper-logo.jpg",
+        "isRequestSectionOpen": "false",
+        "url":
+          "http://www.aaacooper.com/WS/WebServiceDetails.aspx?service=Pickup",
+        "tracking": "can be tracked by Pro,Bol and Po",
+        "order": "no create order web service",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "Dayton Freight",
+        "userName": "VENTURE1",
+        "password": "FCLFB",
+        "token": "",
+        "accountNo": "0036141",
+        "mcnumber": ["MC-189528"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "http://blog.partnership.com/image.axd?picture=%2F2013%2F11%2FDFLogo.gif",
+        "isRequestSectionOpen": "false",
+        "url": "https://api.daytonfreight.com/public/3/docs/",
+        "tracking":
+          "can be tracked by Pro,Bol,Po,shipper number and pickup number and date range",
+        "order": "no pro number return, only base64 bol string.",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "Estes",
+        "userName": "WILEY2013",
+        "password": "VENLOG1",
+        "token": "",
+        "accountNo": "9393912",
+        "mcnumber": ["MC-97275"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "https://www.truckdriverssalary.com/wp-content/uploads/2016/03/estes-express-lines.jpg",
+        "isRequestSectionOpen": "false",
+        "url": "http://www.estes-express.com/tools/web-services.html",
+        "tracking": "can be tracked by Pro,Bol,Po,Load Number,interlinePro",
+        "order": "no pro number return,return bol number",
+        "pickup": "return request number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "Holland",
+        "userName": "tnlltl2",
+        "password": "transcorr",
+        "token": "9R2QFXvkjh7fl1dGLBrnKPiVWXglBXw3",
+        "accountNo": "357137",
+        "mcnumber": ["MC-59206","MC-837436"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo": "http://www.hollandregional.com/careers/img/logoHolland.png",
+        "isRequestSectionOpen": "false",
+        "url": "https://my.hollandregional.com/WebServices/steps",
+        "tracking": "can be tracked by Pro,Bol,Po",
+        "order": "no create order webserivce",
+        "pickup": "return pickup no",
+        "document": "BOL , POD , INVOICE"
+      },
+      {
+        "carrierName": "Old Dominion",
+        "userName": "TRANSCORR",
+        "password": "TNLLTL2855",
+        "token": "",
+        "accountNo": "12717936",
+        "mcnumber": ["MC-107478"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "url": "https://www.odfl.com/WebServiceSignup/",
+        "tracking": "can be only tracked by Pro",
+        "order": "",
+        "document": "BOL , POD",
+        "pickup":
+          "BOL and Pickup serive requested together. return tracking number and bol pdf",
+        "logo":
+          "http://cvsa.org/wp-content/uploads/cvsa-sponsor-logo-old-dominion.jpg",
+        "isRequestSectionOpen": "false"
+      },
+      {
+        "carrierName": "Reddaway",
+        "userName": "TRANSCORR",
+        "password": "TNLLTL2855",
+        "token": "9R2QFXvkjh7fl1dGLBrnKPiVWXglBXw3",
+        "accountNo": "",
+        "mcnumber": ["MC-65895"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "https://www.alltruckjobs.com/logos/non_clients/yrc_reddaway.png",
+        "isRequestSectionOpen": "false",
+        "url": "https://www.odfl.com/WebServiceSignup/",
+        "tracking": "can be tracked by Pro,Bol,Po",
+        "order": "no create order webserivce",
+        "pickup": "return pickup no",
+        "document": "BOL , POD , INVOICE"
+      },
+      {
+        "carrierName": "RL Carriers",
+        "userName": "",
+        "password": "",
+        "token": "ItZjOTgDYyYxE2OTUtYmQ2Yi00YzM0LThhYmNjRlB0MzOjMDC",
+        "accountNo": "",
+        "mcnumber": ["MC-344615"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "url": "https://www.odfl.com/WebServiceSignup/",
+        "tracking":
+          "PRO or BOL or Job or Manifest or PO or Sales or Account or CustomerOrder or CustomerPO or Lot or Order or Reference",
+        "order": "return bolID and pro number",
+        "pickup": "return pickup no",
+        "document": "BOL , POD",
+        "logo":
+          "http://www.boliviaenmovimiento.net/wp-content/uploads/2017/07/Interesting-Rl-Carriers-Logo-56-On-Create-A-Logo-with-Rl-Carriers-Logo.jpg",
+        "isRequestSectionOpen": "false"
+      },
+      {
+        "carrierName": "Road Runner",
+        "userName": "tnlltl",
+        "password": "tnlltl1",
+        "token": "",
+        "accountNo": "414890",
+        "mcnumber": ["MC-225082", "MC-170247","MC-557121","MC-151258"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "https://mma.prnewswire.com/media/433299/Roadrunner_Freight_Logo.jpg?p=facebook",
+        "isRequestSectionOpen": "false",
+        "url": "https://www.rrts.com/Pages/System-Integration.aspx",
+        "tracking": "Pro,Pickup Number,BOL and Po",
+        "order": "no ceate order webservice",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "Saia",
+        "userName": "transcorr",
+        "password": "transcorr1",
+        "token": "",
+        "accountNo": "0846154",
+        "mcnumber": ["MC-87511","MC-926082"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "http://cdn.write2market.com/wp-content/uploads/SAIA-1200x1200.png",
+        "isRequestSectionOpen": "false",
+        "url": "http://www.saia.com/resourcesContent.aspx?c=webserv",
+        "tracking": "Pro,BOL,PO,Shipping Number,Partner Number",
+        "order": "return Pro number and BOL PDF Link",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "SouthEastern Freight",
+        "userName": "transcorrnatl",
+        "password": "tra310",
+        "token": "",
+        "accountNo": "999836981",
+        "mcnumber": ["MC-111871"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo":
+          "http://www.truckingtruth.com/trucking-companies/tc-logos/southeastern-freight-logo.jpg",
+        "isRequestSectionOpen": "false",
+        "url": "https://www.sefl.com/seflWebsite/webconnect.jsp",
+        "tracking": "Pro,interline pro,BOL,PO",
+        "order": "no create order webservice",
+        "pickup": "return pickup number",
+        "document": "BOL , POD"
+      },
+      {
+        "carrierName": "UPS",
+        "userName": "TNLGRRubber",
+        "password": "Transcorr1",
+        "token": "0D367714BDDE503D",
+        "accountNo": "",
+        "mcnumber": ["MC-115495", "MC-63063","MC-116200","MC-109533"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo": "https://gradsoflife.org/wp-content/uploads/2014/03/UPS.png",
+        "isRequestSectionOpen": "false",
+        "url": "https://www.sefl.com/seflWebsite/webconnect.jsp",
+        "tracking": "Pro,interline pro,BOL,PO",
+        "order": "return Pro and BOL base64 string",
+        "pickup": "return pickup number",
+        "document": "NOT FOUND"
+      },
+      {
+        "carrierName": "XPO",
+        "userName": "tnlltl@transcorr.com",
+        "password": "ChangeMe2",
+        "token": "",
+        "accountNo": "trcgx991000",
+        "mcnumber": ["MC-770462"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo": "https://s3.amazonaws.com/shipx-imgs/xpo-logo.png",
+        "isRequestSectionOpen": "false",
+        "url":
+          "https://www.xpo.com/solutions/transportation/ltl-help-center/xml",
+        "tracking": "Pro and any reference Number",
+        "order": "return BOL Id ",
+        "pickup": "return pickup number",
+        "document": "BOL, POD"
+      },
+      {
+        "carrierName": "YRC",
+        "userName": "transcorr",
+        "password": "transcorr1",
+        "token": "08179295402",
+        "accountNo": "272768",
+        "mcnumber": ["MC-2202"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo": "https://www.yrcw.com/about/gallery/logos/logo-yrcf.png",
+        "isRequestSectionOpen": "false",
+        "url": "http://yrc.com/api/",
+        "tracking": "Pro",
+        "order": "Pro and base 64 BOL string",
+        "pickup": "return pickup number",
+        "document": "BOL, POD, INVOICE"
+      },
+      {
+        "carrierName": "Fedex",
+        "userName": "tnlltl",
+        "password": "Transcorr1",
+        "token": "08179295402",
+        "accountNo": "595852935",
+        "mcnumber": ["MC-121805"],
+        "rate": {
+          "charge": "",
+          "date": "",
+          "status": {
+            "error": false,
+            "loading": false,
+            "requsting": false,
+            "message": ""
+          }
+        },
+        "logo": "http://1000logos.net/wp-content/uploads/2017/07/FedEx-Logo.png",
+        "isRequestSectionOpen": "false",
+        "url": "http://www.fedex.com/us/developer/",
+        "tracking": "Pro",
+        "order": "Pro and base 64 BOL string",
+        "pickup": "return pickup number",
+        "document": "BOL, POD, INVOICE"
+      }
+    ]
+  }
+}

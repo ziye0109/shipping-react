@@ -1,0 +1,41 @@
+.carrier-quotesection{
+
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background: white;
+
+
+
+
+
+}
+
+
+
+
+.carrier-quotesection-action {
+
+    margin-top:16px;
+
+    
+}
+
+
+
+
+.carrier-quotesection-quotes{
+
+
+    list-style: none;
+    margin-top:16px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+
+
+
+}
+
+
+

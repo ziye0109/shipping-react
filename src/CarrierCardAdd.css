@@ -1,0 +1,47 @@
+.carrier-card-card {
+    position: relative;
+    padding: 8px;
+    outline: none;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    width: 270px;
+    height: 240px;
+    box-shadow: 0 0 5px;
+    border-radius: 2px; 
+    text-align: center;
+    vertical-align: middle;
+
+
+}
+
+ .card-add-icon{
+
+
+     color:lightgray;
+ }
+
+
+.carrier-quotesection-card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    opacity: 0.9;
+}
+
+
+
+
+.open {
+    display: block;
+}
+
+.close {
+    display: none;
+}
+
+
+
+
